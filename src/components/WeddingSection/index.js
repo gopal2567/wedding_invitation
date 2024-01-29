@@ -14,7 +14,7 @@ function WeddingSection() {
           <h2 className="main-font">Save the Date</h2>
           <p style={{ color: '#f4efeffc'}}>
             Mark your calendar for a day of love, laughter & wedding day magic!
-            <br />We've got the '<b>I do</b>,' you bring the '<b>We're ready to party!</b>'<br /><br />
+            <br />We've got the '<b>I do</b>', you bring the '<b>We're ready to party!</b>'<br /><br />
           </p>
         </div>
         <div className="event">
