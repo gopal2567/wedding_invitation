@@ -20,13 +20,6 @@ function ThankYouSection() {
         <span>
           With gratitude to God, and hearts full of thanks, we invite you to join us in celebration, surrounded by the love of our families.
         </span> 
-        <div className="button" >
-          <div>
-            <Button
-              link={"https://drive.google.com/file/d/1NXiXTWGXUdpDyH6z5A9aEYaZ2Fyssjej/view"}
-              title="Video Invitation" />
-          </div>
-        </div>
       </div>
     </div>
   );
